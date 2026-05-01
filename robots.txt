@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-rksqx4.brickbyclick.ai/sitemap.xml
